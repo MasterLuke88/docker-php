@@ -1,4 +1,4 @@
 # docker-php
-Custom php image
+Custom php image.
 
 Just for test, doing nothing.
